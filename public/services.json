@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1",
+    "service_id": "04",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/N3Fqg9g/1.jpg",
+    "price": "270.00",
+    "description": "Lorem ipsum dolor site amet conseteture",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Fuga numquam nulla nam, facere"
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "service_id": "05",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/gFFXfTQ/2.jpg",
+    "price": "200.00",
+    "description": "Lorem ipsum dolor site amet conseteture",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Fuga numquam nulla nam, facere"
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "service_id": "06",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/ZJbNGb0/3.jpg",
+    "price": "250.00",
+    "description": "Lorem ipsum dolor site amet conseteture",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Fuga numquam nulla nam, facere"
+      }
+    ]
+  },
+
+  {
+    "id": "4",
+    "service_id": "07",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/GF1VYQL/4.jpg",
+    "price": "230.00",
+    "description": "Lorem ipsum dolor site amet conseteture",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Fuga numquam nulla nam, facere"
+      }
+    ]
+  },
+
+  {
+    "id": "5",
+    "service_id": "08",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/Jsxqdcz/5.jpg",
+    "price": "200.00",
+    "description": "Lorem ipsum dolor site amet conseteture",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Fuga numquam nulla nam, facere"
+      }
+    ]
+  },
+
+  {
+    "id": "6",
+    "service_id": "08",
+    "title": "Engine Oil Change",
+    "img": "https://i.ibb.co/3yH1qVN/6.jpg",
+    "price": "300.00",
+    "description": "Lorem ipsum dolor site amet conseteture",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Fuga numquam nulla nam, facere"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Fuga numquam nulla nam, facere"
+      }
+    ]
+  }
+]
