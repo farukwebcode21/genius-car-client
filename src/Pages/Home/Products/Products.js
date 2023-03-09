@@ -25,6 +25,11 @@ const Products = () => {
           <ProductsCart key={product.id} product={product} />
         ))}
       </div>
+      <div className="text-center my-10">
+        <button className="btn btn-wide text-orange-600 btn-outline">
+          More Products
+        </button>
+      </div>
     </div>
   );
 };

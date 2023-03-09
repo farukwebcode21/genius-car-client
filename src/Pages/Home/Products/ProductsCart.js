@@ -8,6 +8,34 @@ const ProductsCart = ({ product }) => {
         <img src={image} alt="Shoes" className="h-36" />
       </figure>
       <div className="card-body items-center text-center">
+        <div className="rating">
+          <input
+            type="radio"
+            name="rating-2"
+            className="mask mask-star-2 bg-orange-400"
+          />
+          <input
+            type="radio"
+            name="rating-2"
+            className="mask mask-star-2 bg-orange-400"
+            checked
+          />
+          <input
+            type="radio"
+            name="rating-2"
+            className="mask mask-star-2 bg-orange-400"
+          />
+          <input
+            type="radio"
+            name="rating-2"
+            className="mask mask-star-2 bg-orange-400"
+          />
+          <input
+            type="radio"
+            name="rating-2"
+            className="mask mask-star-2 bg-orange-400"
+          />
+        </div>
         <h2 className="card-title">{title}</h2>
         <p className="text-orange-600">${price}</p>
       </div>
