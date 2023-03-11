@@ -2,10 +2,13 @@ import React from "react";
 import teamMember_1 from "../../../assets/images/team/1.jpg";
 import teamMember_2 from "../../../assets/images/team/2.jpg";
 import teamMember_3 from "../../../assets/images/team/3.jpg";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faFaceGrinBeam } from "@fortawesome/free-regular-svg-icons";
+import { faMobileButton } from "@fortawesome/free-solid-svg-icons";
 
 const OurTeam = () => {
   return (
-    <div>
+    <div className="mb-14">
       <div className="container text-center mb-16 ">
         <h4 className="text-orange-700 text-xl font-bold mb-5">Team</h4>
         <h2 className="font-bold text-4xl mb-5">Meet Our Team</h2>
@@ -24,7 +27,8 @@ const OurTeam = () => {
             <h2 className="card-title">Car Engine Plug</h2>
             <p>Engine Expert</p>
             <div className="card-actions">
-              <tesing>1</tesing>
+              <FontAwesomeIcon icon={faFaceGrinBeam} />
+              <FontAwesomeIcon icon={faMobileButton} />
             </div>
           </div>
         </div>
