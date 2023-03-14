@@ -13,7 +13,7 @@ const Login = () => {
     const password = form.target.value;
 
     login(email, password)
-      .tnen((result) => {
+      .then((result) => {
         const user = result.user;
         console.log(user);
       })

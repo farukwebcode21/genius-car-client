@@ -13,7 +13,6 @@ const Checkout = () => {
     const email = user?.email || "unregistered";
     const phone = form.phone.value;
     const message = form.message.value;
-    event.target.reset();
 
     const order = {
       service: _id,
@@ -39,7 +38,13 @@ const Checkout = () => {
       body: JSON.stringify(order),
     })
       .then((res) => res.json())
-      .then((data) => console.log(data))
+      .then((data) => {
+        console.log(data);
+        if (data.acknowledged) {
+          alert("Order Placed successfully ");
+          form.reset();
+        }
+      })
       .catch((error) => console.log(error));
   };
 
